@@ -6,5 +6,6 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/xiaomi/mi8937
 
 # Inherit fragments
+$(call inherit-product, vendor/xiaomi/mi8937/camera/ulysse.mk)
 $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-acdb.mk)
 $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-ir.mk)
