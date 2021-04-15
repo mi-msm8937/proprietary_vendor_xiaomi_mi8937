@@ -181,3 +181,55 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/acdb/vendor/etc/ulysse_acdbdata/QRD/QRD_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/QRD/QRD_Hdmi_cal.acdb \
     vendor/xiaomi/mi8937/acdb/vendor/etc/ulysse_acdbdata/QRD/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/QRD/QRD_Headset_cal.acdb \
     vendor/xiaomi/mi8937/acdb/vendor/etc/ulysse_acdbdata/QRD/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/QRD/QRD_Speaker_cal.acdb
+
+# prada
+PRODUCT_COPY_FILES += \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/MTP/MTP_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-sku5-snd-card/QRD_SKU5_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Bluetooth_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_General_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Global_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Handset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Hdmi_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Headset_cal.acdb \
+    vendor/xiaomi/mi8937/acdb/vendor/etc/prada_acdbdata/QRD/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/prada_acdbdata/QRD/QRD_Speaker_cal.acdb
