@@ -14,4 +14,5 @@ $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-acdb.mk)
 $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-fingerprint.mk)
 $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-ir.mk)
 
+$(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-adsp_modules.mk)
 $(call inherit-product, vendor/xiaomi/mi8937/mi8937-vendor-partial_ril.mk)
