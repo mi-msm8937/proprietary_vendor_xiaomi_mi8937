@@ -7,7 +7,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/hw/fingerprint.santoni.goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.santoni.goodix.so \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/hw/fingerprint.ugg_fpc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.ugg_fpc.default.so \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/hw/gf_fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gf_fingerprint.default.so \
-    vendor/xiaomi/mi8937/fingerprint/vendor/lib64/hw/gxfingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gxfingerprint.default.so \
+    vendor/xiaomi/mi8937/fingerprint/vendor/lib64/hw/gxfingerprint.santoni.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gxfingerprint.santoni.default.so \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_algo.so \
     vendor/xiaomi/mi8937/fingerprint/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
