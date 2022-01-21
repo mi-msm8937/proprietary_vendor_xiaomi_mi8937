@@ -1441,7 +1441,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.led.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.led.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.lirc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.lirc.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.spidev.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.spidev.so \
-    vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.default.so \
+    vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.land_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_fpc.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.land_goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_goodix.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.prada_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.prada_fpc.so \
