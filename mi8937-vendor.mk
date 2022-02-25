@@ -11,7 +11,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg_c3a.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg_c3a.xml \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg_c3b.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg_c3b.xml \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml \
-    vendor/xiaomi/mi8937/proprietary/vendor/bin/hvdcp_opti:$(TARGET_COPY_OUT_VENDOR)/bin/hvdcp_opti \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/land_gx_fpcmd:$(TARGET_COPY_OUT_VENDOR)/bin/land_gx_fpcmd \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/land_gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/land_gx_fpd \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/land_mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/land_mm-qcamera-daemon \
