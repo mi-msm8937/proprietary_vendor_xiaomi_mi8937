@@ -161,13 +161,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/santoni_acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Bluetooth_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_General_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Global_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Handset_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Hdmi_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Headset_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/International/INTER_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/International/INTER_Speaker_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_General_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_Global_cal.acdb \
@@ -175,13 +168,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_Hdmi_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/MTP_Speaker_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_General_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Global_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb \
-    vendor/xiaomi/mi8937/proprietary/vendor/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/ulysse_acdbdata/MTP/msm8952-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb \
     vendor/xiaomi/mi8937/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
     vendor/xiaomi/mi8937/proprietary/vendor/lib/libLbifocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libLbifocus.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib/libLctuator_bu64244gwz.so:$(TARGET_COPY_OUT_VENDOR)/lib/libLctuator_bu64244gwz.so \
@@ -1434,9 +1420,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.led.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.led.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.lirc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.lirc.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/consumerir.spidev.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.spidev.so \
-    vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.land_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_fpc.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.land_goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.land_goodix.so \
+    vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.prada_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.prada_fpc.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.prada_goodix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.prada_goodix.so \
     vendor/xiaomi/mi8937/proprietary/vendor/lib64/hw/fingerprint.santoni_fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.santoni_fpc.so \
