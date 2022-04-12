@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/santoni_gx_fpcmd:$(TARGET_COPY_OUT_VENDOR)/bin/santoni_gx_fpcmd \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/santoni_gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/santoni_gx_fpd \
     vendor/xiaomi/mi8937/proprietary/vendor/bin/ulysse_mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ulysse_mm-qcamera-daemon \
-    vendor/xiaomi/mi8937/proprietary/vendor/bin/wcnss_service_daisy:$(TARGET_COPY_OUT_VENDOR)/bin/wcnss_service_daisy \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/Lamera/msm8937_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Lamera/msm8937_camera.xml \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/Lamera/ofilm_s5k5e8_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Lamera/ofilm_s5k5e8_chromatix.xml \
     vendor/xiaomi/mi8937/proprietary/vendor/etc/Lamera/ov13853_q13853a_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Lamera/ov13853_q13853a_chromatix.xml \
